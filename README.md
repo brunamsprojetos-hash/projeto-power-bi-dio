@@ -14,4 +14,4 @@ produtos, países, segmentos e períodos.
 
 ## Arquivos
 
-- Projeto BI_Bruna Machado.pdf — versão final dos dashboards.
+- Projeto_BI_Bruna_Machado.pdf — versão final dos dashboards.
